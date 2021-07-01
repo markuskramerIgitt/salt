@@ -1,3 +1,5 @@
+This line is to learn rebase and not intended for merge 
+
 ### Packaged Plugin Licenses
 The following dependencies are packaged with
 salt for Windows with their corresponding licenses:
